@@ -8,7 +8,7 @@ setup(
     description='This is my first python package',
     long_description=open('README.md').read(),
     install_requires = ['numpy'],
-    url='',
+    url='https://github.com/juluis-foyet/myPythonPackage.git',
     author='Juluis Foyet',
     author_email='visnelfoyet@gmail.com'
 )
